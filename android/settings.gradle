@@ -1,0 +1,3 @@
+rootProject.name = 'radio_putin_4076'
+
+include ':app'
